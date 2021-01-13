@@ -4,7 +4,7 @@
 
 ⚡ I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. I am looking for opportunities in Web, Cloud and Community Roles in-general with a flair of solving problems as I learn new things.
 
-Skills: JAVA / JS / HTML / CSS / C
+Skills: JAVA / ANDROID / JS / HTML / CSS / C
 
 - 🔭 I’m currently working on Android development. 
 - 🌱 I’m currently learning Javascript. 
