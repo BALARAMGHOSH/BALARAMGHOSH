@@ -16,9 +16,3 @@ Skills: JAVA / ANDROID / JS / HTML / CSS / C
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balaram-ghosh/)](https://www.linkedin.com/in/balaram-ghosh/)&nbsp; [![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_Balaram_Ghosh_)](https://twitter.com/_Balaram_Ghosh_)&nbsp; [![DEV Badge](https://img.shields.io/badge/-dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/balaramghosh)](https://dev.to/balaramghosh)&nbsp; [![Hashnode Badge](https://img.shields.io/badge/-hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@BalaramGhosh)](https://hashnode.com/@BalaramGhosh)&nbsp; [![Medium Badge](https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@balaramghosh)](https://medium.com/@balaramghosh)&nbsp;
 
-## 🏆 Github Status
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Vishal-raj-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=BALARAMGHOSH&theme=dark" width="48%" >
-<br>
-![Profile views](https://gpvc.arturio.dev/BALARAMGHOSH)  
