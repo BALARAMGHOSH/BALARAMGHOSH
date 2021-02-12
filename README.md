@@ -43,4 +43,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramghosh&" alt="balaramghosh" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/balaram.ghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="balaram.ghosh" /></a></p><br><br>
+<a href="https://www.buymeacoffee.com/balaram.ghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="balaram.ghosh" /></a>
+<a href='https://ko-fi.com/F1F33MKZ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
