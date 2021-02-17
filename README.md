@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://balaramghosh.github.io/](https://balaramghosh.github.io/)
 
-### Blogs posts
+<!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
