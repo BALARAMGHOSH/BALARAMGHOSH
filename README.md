@@ -54,3 +54,6 @@
 <h3 align="left">Support:</h3>
 <a href="https://www.buymeacoffee.com/balaram.ghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="balaram.ghosh" /></a>
 <a href='https://ko-fi.com/F1F33MKZ2' target='_blank'><img height='48' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height='60' alt="Donate with PayPal" />
+</a>
