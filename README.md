@@ -57,3 +57,4 @@
 <a href="https://paypal.me/gbalaram?locale.x=en_GB">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height='60' alt="Donate with PayPal" />
 </a>
+<a href="https://www.patreon.com/user?u=35465924&fan_landing=true"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=for-the-badge" /></a>
