@@ -52,9 +52,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramghosh&" alt="balaramghosh" /></p>
 
 <h3 align="left">Support:</h3>
-<a href="https://www.buymeacoffee.com/balaram.ghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="balaram.ghosh" /></a>
-<a href='https://ko-fi.com/F1F33MKZ2' target='_blank'><img height='48' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.buymeacoffee.com/balaram.ghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"  alt="balaram.ghosh" /></a>
+<a href="https://www.patreon.com/user?u=35465924&fan_landing=true"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height='48'/></a>
+<a href='https://ko-fi.com/F1F33MKZ2' target='_blank'><img height='50' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <a href="https://paypal.me/gbalaram?locale.x=en_GB">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height='60' alt="Donate with PayPal" />
 </a>
-<a href="https://www.patreon.com/user?u=35465924&fan_landing=true"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height='48'/></a>
