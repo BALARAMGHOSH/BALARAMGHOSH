@@ -37,7 +37,6 @@
 <a href="https://www.linkedin.com/in/balaram-ghosh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/balaram.ghosh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@balaram.ghosh%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/balaram.ghosh.personal" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://dev.to/balaramghosh" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
 
@@ -81,6 +80,11 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="" />
+</p>
+
+<h3 align="left">My Blogs:</h3>
+<p align="left">
+<a href="https://dev.to/balaramghosh" target="_blank"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaramghosh&show_icons=true&locale=en&layout=compact" alt="balaramghosh" /></p>
