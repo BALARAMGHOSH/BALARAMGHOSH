@@ -86,6 +86,7 @@
 <p align="left">
 <a href="https://dev.to/balaramghosh" target="_blank"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
 <a href="https://balaramghosh.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://hashnode.com/@BalaramGhosh" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaramghosh&show_icons=true&locale=en&layout=compact" alt="balaramghosh" /></p>
