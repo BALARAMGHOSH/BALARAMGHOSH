@@ -26,10 +26,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://www.linkedin.com/in/balaram-ghosh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/balaram.ghosh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@balaram.ghosh%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/balaram.ghosh.personal" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+</p>
+
+<h3 align="left">Join my team:</h3>
+<p align="left">
+<a href="https://discord.gg/YuSbPyrb2E" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://t.me/joinchat/09SP9XwDWyU1Njc1" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="" target="_blank"></a>
+<a href="" target="_blank"></a>
+<a href="" target="_blank"></a>
+</p>
 
 
 <h3 align="left">Languages:</h3>
