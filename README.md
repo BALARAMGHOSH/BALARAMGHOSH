@@ -35,7 +35,7 @@
 -->
 
 <a href="https://www.linkedin.com/in/balaram-ghosh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/balaram.ghosh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/balaram.ghosh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@balaram.ghosh%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/balaram.ghosh.personal" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/balaramghosh" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
