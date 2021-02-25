@@ -33,7 +33,7 @@
 
 <h3 align="left">Join my team:</h3>
 <p align="left">
-<a href="https://discord.gg/YuSbPyrb2E" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/YuSbPyrb2E" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CBalaram's Lobby%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://t.me/joinchat/09SP9XwDWyU1Njc1" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="" target="_blank"></a>
 <a href="" target="_blank"></a>
