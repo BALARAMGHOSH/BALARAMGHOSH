@@ -33,11 +33,11 @@
 
 <h3 align="left">Join my team:</h3>
 <p align="left">
+<a href="https://www.youtube.com/channel/UCkONbVXoZxD4usLgfCC8fFA" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Balaram Ghosh%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 <a href="https://discord.gg/YuSbPyrb2E" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CBalaram's Lobby%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://t.me/joinchat/09SP9XwDWyU1Njc1" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://chat.whatsapp.com/ElmEzItWSu4KUh1uTQ2ner" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://join.slack.com/t/balaramslobby/shared_invite/zt-mvffuxk3-zPEZbXRgrYg4MYLN61N7Ew" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
-<a href="https://www.youtube.com/channel/UCkONbVXoZxD4usLgfCC8fFA" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Balaram Ghosh%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </p>
 
 
