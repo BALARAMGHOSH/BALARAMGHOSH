@@ -10,8 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCkONbVXoZxD4usLgfCC8fFA)
-
+- 👯 I’m looking to collaborate on <a href="https://www.youtube.com/channel/UCkONbVXoZxD4usLgfCC8fFA" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Balaram Ghosh%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 - 📝 I regularly write articles on [https://balaramghosh.medium.com/](https://balaramghosh.medium.com/)
 
 - 💬 Ask me about **Android, Web Development.**
@@ -20,9 +19,6 @@
 
 - 📄 Know about my experiences [https://balaramghosh.github.io/](https://balaramghosh.github.io/)
 
-<!--### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
