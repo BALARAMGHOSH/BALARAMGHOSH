@@ -99,3 +99,9 @@
 <a href="https://paypal.me/gbalaram?locale.x=en_GB">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height='60' alt="Donate with PayPal" />
 </a>
+
+<h3 align="left">Support:</h3>
+<a href="https://paypal.me/gbalaram?locale.x=en_GB" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt=""></a>
+<a href="https://ko-fi.com/F1F33MKZ2" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt=""></a>
+<a href="https://www.patreon.com/user?u=35465924&fan_landing=true" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt=""></a>
+<a href="https://www.buymeacoffee.com/balaram.ghosh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt=""></a>
