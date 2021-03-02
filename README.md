@@ -76,7 +76,7 @@
 <h3 align="left">IDEs:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="" />
+<img alt="Android" src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 <h3 align="left">My Blogs:</h3>
