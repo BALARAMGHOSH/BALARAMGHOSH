@@ -20,14 +20,14 @@
 - 📄 Know about my experiences [https://balaramghosh.github.io/](https://balaramghosh.github.io/)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me here 👇🏻</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/balaram-ghosh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/balaram.ghosh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@balaram.ghosh%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/balaram.ghosh.personal" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Join my team:</h3>
+<h3 align="left">Join my team here 👇🏻</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCkONbVXoZxD4usLgfCC8fFA" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Balaram Ghosh%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 <a href="https://discord.gg/YuSbPyrb2E" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CBalaram's Lobby%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -36,7 +36,14 @@
 <a href="https://join.slack.com/t/balaramslobby/shared_invite/zt-mvffuxk3-zPEZbXRgrYg4MYLN61N7Ew" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 </p>
 
+<h3 align="left">Check my Blogs here 👇🏻</h3>
+<p align="left">
+<a href="https://dev.to/balaramghosh" target="_blank"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
+<a href="https://balaramghosh.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://hashnode.com/@BalaramGhosh" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+</p>
 
+## I am using 👇🏻
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -77,13 +84,6 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Android" src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-<h3 align="left">My Blogs:</h3>
-<p align="left">
-<a href="https://dev.to/balaramghosh" target="_blank"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
-<a href="https://balaramghosh.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://hashnode.com/@BalaramGhosh" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaramghosh&show_icons=true&locale=en&layout=compact" alt="balaramghosh" /></p>
