@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Balaram Ghosh</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Balaram Ghosh</h1>
 <img align="right" src="https://github.com/BALARAMGHOSH/BALARAMGHOSH/blob/main/coder.gif?raw=true">
 
 <h4 align="left">I am a Junior Year Student at Maulana Abul Kalam Azad University of Technology currently undertaking my Bachelor of Technology in Computer Science and Engineering.</h3>
