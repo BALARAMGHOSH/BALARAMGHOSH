@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Balaram Ghosh</h1>
 <img align="right" height="300" src="https://github.com/BALARAMGHOSH/BALARAMGHOSH/blob/main/coder.gif?raw=true">
 
-I am a Junior Year Student at Maulana Abul Kalam Azad University of Technology currently undertaking my Bachelor of Technology in Computer Science and Engineering.
+I am a 3rd Year Student at Maulana Abul Kalam Azad University of Technology currently undertaking my Bachelor of Technology in Computer Science and Engineering.
 <br>
 <br>
 I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. I am looking for opportunities in Web, Cloud and Community Roles in-general with a flair of solving problems as I learn new things.
