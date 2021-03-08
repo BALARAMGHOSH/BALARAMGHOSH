@@ -50,7 +50,7 @@ I'm a Software Developer with an experience in Development, Analysis and Content
 <a href="https://hashnode.com/@BalaramGhosh" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </p>
 
-## I am using 👇🏻
+## 🔴 I am using 👇🏻
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
