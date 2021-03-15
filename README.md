@@ -4,7 +4,7 @@
 I am a 3rd Year Student at Maulana Abul Kalam Azad University of Technology currently undertaking my Bachelor of Technology in Computer Science and Engineering.
 <br>
 <br>
-I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. I am looking for opportunities in Web, Cloud and Community Roles in-general with a flair of solving problems as I learn new things.
+
 
 <br>
 <br>
