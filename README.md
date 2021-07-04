@@ -1,3 +1,4 @@
+<img align="right" height="300" src="https://github.com/BALARAMGHOSH/BALARAMGHOSH/blob/main/coder.gif?raw=true">
 I am a 3rd Year Student at Maulana Abul Kalam Azad University of Technology currently undertaking my Bachelor of Technology in Computer Science and Engineering.
 <br>
 <br>
