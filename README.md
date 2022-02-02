@@ -10,7 +10,6 @@ I'm a Software Developer with an experience in Development, Analysis and Content
 
 <br>
 <br>
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaramghosh&label=Profile%20views&color=0e75b6&style=flat" alt="balaramghosh" /> </p>
 
