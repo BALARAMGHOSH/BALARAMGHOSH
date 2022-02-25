@@ -12,7 +12,7 @@ I'm a Software Developer with an experience in Development, Analysis and Content
 <br>
 <br>
 
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaramghosh&label=Profile%20views&color=0e75b6&style=flat" alt="balaramghosh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_balaram_ghosh_" target="blank"><img src="https://img.shields.io/twitter/follow/_balaram_ghosh_?logo=twitter&style=for-the-badge" alt="_balaram_ghosh_" /></a> </p>
