@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Balaram Ghosh](https://www.linkedin.com/in/balaram-ghosh/)
+# [Hi, I am Balaram Ghosh](https://www.linkedin.com/in/balaram-ghosh/)
 
 
 
